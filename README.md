@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution URL](https://your-solution-url.com)
-- Live Site URL: [live site](https://your-live-site-url.com)
+- Solution URL: [solution URL](https://www.frontendmentor.io/challenges/room-homepage-BtdBY_ENq/hub/mobilefirst-workflow-room-homepage-UreSfSoPe)
+- Live Site URL: [live site](https://room-homepage-lilac-nu.vercel.app/)
 
 ## My process
 
