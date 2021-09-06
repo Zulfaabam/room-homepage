@@ -1,0 +1,31 @@
+// ## Colors
+// ### Primary
+$dark-gray: hsl(0, 0%, 63%);
+$black: hsl(0, 0%, 0%);
+$white: hsl(0, 0%, 100%);
+$very-dark-gray: hsl(0, 0%, 27%);
+
+// ### Body Copy
+// - Font size: 12px
+
+// ### Font
+// - Family: [Spartan](https://fonts.google.com/specimen/Spartan)
+// - Weights: 500, 600, 700
+// font-family: 'Spartan', sans-serif;
+
+//breakpoint
+// 800px - 50rem
+// 1120px - 70rem
+// 1440px - 90rem
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Spartan', sans-serif;
+}
+
+*,
+::before,
+::after {
+  box-sizing: border-box;
+}
